@@ -1,0 +1,19 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Maksim Vakarchuk",
+	"icon": "https://micro.blog/maks112v/avatar.jpg",
+	"home_page_url": "https://maks112v.micro.blog/",
+	"feed_url": "https://maks112v.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://maks112v.micro.blog/2022/10/03/after-using-heroku.html",
+				"title": "Better than Heroku",
+				"content_html": "<p>After using Heroku for years to learn, I am sad to see the <a href=\"https://techcrunch.com/2022/08/25/heroku-announces-plans-to-eliminate-free-plans-blaming-fraud-and-abuse/\">free tier go</a>. While searching for another platform I found <a href=\"https://fly.io\">Fly.io</a>. From their great guides (<a href=\"https://fly.io/docs/rails/getting-started/migrate-from-heroku\">Migrate From Heroku</a>), to their dev focused cli, it is better than Heroku. Oh, it also has a free tier for those hobby projects that I can’t quite finish.</p>\n",
+				"content_text": "After using Heroku for years to learn, I am sad to see the [free tier go](https://techcrunch.com/2022/08/25/heroku-announces-plans-to-eliminate-free-plans-blaming-fraud-and-abuse/). While searching for another platform I found [Fly.io](https://fly.io). From their great guides ([Migrate From Heroku](https://fly.io/docs/rails/getting-started/migrate-from-heroku)), to their dev focused cli, it is better than Heroku. Oh, it also has a free tier for those hobby projects that I can’t quite finish.\n",
+				"date_published": "2022-10-03T23:45:07-04:00",
+				"url": "https://maks112v.micro.blog/2022/10/03/after-using-heroku.html",
+				"tags": ["Noteworthy Tech"]
+			}
+	]
+}
